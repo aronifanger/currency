@@ -4,13 +4,13 @@ This project aims to convert portuguese numbers written in full or numerically.
 
 ## Usage
 
-Para utilizar dentro do seu projeto clone o projeto dentro de uma pasta (`external_libs` pro exemplo).
+To use this code into your project, clone it into a folder (`external_libs` for example).
 
-Faça a instalação do `requirements.txt`.
+Install `requirements.txt`.
 
 ```pip install -r requirements.txt```
 
-Importe o conteúdo do diretório `src`
+Import `src` directory contents.
 
 ### Exemplo
 
