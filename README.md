@@ -12,7 +12,7 @@ Install `requirements.txt`.
 
 Import `src` directory contents.
 
-### Exemplo
+### Example
 
 ````python
 from external_libs.currency.src import number_to_text
